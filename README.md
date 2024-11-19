@@ -78,10 +78,18 @@ This project introduces the Unix operating system and basic Unix commands. The t
   grep -i 'science' science.txt
   ```
 
+## Exercises Completed
+- **Exercise 1a**: Created a directory named `backups` inside the `unixstuff` directory.
+- **Exercise 1b**: Used `cd`, `ls`, and `pwd` to explore the file system and understand directory navigation.
+- **Exercise 2a**: Created a backup of `science.txt` by copying it to `science.bak`.
+- **Exercise 2b**: Created and removed a directory named `tempstuff` to practice directory management.
+
 ## Screenshots
 - **Sample Screenshot of Unix Commands**:
   ![Unix Commands Screenshot](screenshots/unix_commands.png)
 
+## Summary
+The Unix Tutorial exercises provided hands-on experience with essential Unix commands for navigating and managing files and directories. The skills developed through these exercises are foundational for tasks like setting up file structures, managing backups, and navigating complex directory hierarchies in software development and system administration roles.
 
 ## Notes
 - This project is useful for gaining familiarity with Unix systems, which are crucial in software engineering, system administration, and DevOps roles.
